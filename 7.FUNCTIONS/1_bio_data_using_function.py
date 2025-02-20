@@ -5,7 +5,8 @@ def bioData() :
     rollNo=input("your roll no : ")
     contactNo =input("your contact no : ")
     address=input("Your address : ")
-
+   
+    #empty lines for space
     print()
     print()
 
