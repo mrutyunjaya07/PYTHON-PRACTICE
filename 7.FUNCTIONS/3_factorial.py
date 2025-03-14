@@ -23,3 +23,4 @@ factorial_value = factorial(number)
 
 # Output result
 print("The factorial value of the given number is:", factorial_value)
+
