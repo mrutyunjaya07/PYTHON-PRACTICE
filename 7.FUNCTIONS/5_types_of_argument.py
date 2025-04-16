@@ -43,3 +43,18 @@ wish() # with no arguments the default value will be printed
 wish("Hari")
 
 
+# variable length arguments :
+
+#we can give variable number of arguments
+
+def sum(*num):    # creates a tuple named num
+    total=0
+    for i in num:
+        total=total+i
+    print("Sum is :",total)
+
+sum()
+sum(10,30)
+sum(1,78,56)
+sum(-12,90,0,789)
+
