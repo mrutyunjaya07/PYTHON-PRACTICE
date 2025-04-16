@@ -58,3 +58,6 @@ sum(10,30)
 sum(1,78,56)
 sum(-12,90,0,789)
 
+# for variable numbers of keyword arguments use --> **kwargs
+
+# for simultenous use :   positional  --> *args --> keyword --> **kwargs
