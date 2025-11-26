@@ -13,3 +13,7 @@ for i in range(n):
         print("*", end=" ")  # Print stars in the same line
     
     print()  # Move to the next line after each row
+
+
+
+    
