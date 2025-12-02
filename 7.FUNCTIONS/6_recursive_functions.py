@@ -22,3 +22,7 @@ num=int(input("Enter the number :"))
 sumfinal=add(num)
 # printing value
 print(f"Sum of first {num} number is :",sumfinal)
+
+
+
+
