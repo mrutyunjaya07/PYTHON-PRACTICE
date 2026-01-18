@@ -1,6 +1,8 @@
 # write a python code to convert
 # a string to an integer
 # a float to an integer
+
+
 # a integer to a string
 
 str1= "123"
